@@ -1,0 +1,17 @@
+
+body{
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.heading{
+    background-color:wheat;
+    color: black;
+    text-align: center;
+    border: 2px solid rgb(196, 162, 98) ;
+}
+.section2{
+    flex-direction: row;
+    align-content: center;
+    text-align: center;
+}
+

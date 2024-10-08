@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.heading{
+    background-color: rgb(179, 143, 143);
+    text-align: center;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+}
+.content1{
+    text-align: center
+};
